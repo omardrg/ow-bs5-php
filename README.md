@@ -1,7 +1,7 @@
 # Demo de sitio web creado con Bootstrap 5 y php
 **Este sitio web tiene una finalidad puramente pedagógica.**
 
-Este sitio web utiliza la librería de [Bootstrap](https://getbootstrap.com/) para hacer un sitio web dinámico y _repsonsive_. De todas formas, necesitará algunas configuraciones por parte del usuario en el formulario de envío.
+Este sitio web utiliza la librería de [Bootstrap](https://getbootstrap.esdocu.com/) para hacer un sitio web dinámico y _repsonsive_. De todas formas, necesitará algunas configuraciones por parte del usuario en el formulario de envío.
 
 Se puede ver la demo [aquí](https://onaweb.es/ow-bs5-php/)
 
