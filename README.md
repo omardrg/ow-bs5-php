@@ -15,6 +15,6 @@ Añadir la clave pública de [Google Recaptcha](https://www.google.com/recaptcha
 ### Archivo */envio.php*, línea *8*:
 Añadir la configuración de envío del email:
 1. Dirección a la que se envía el formulario
-2. Usuario de una cuenta de correo existente para validar el envío a través de los servidores SMTP de Gmail: admite cuentas outlook.com, outlook.es, hotmail.com, etc.
+2. Usuario de una cuenta de correo existente para validar el envío a través de los servidores SMTP de Gmail
 3. Contraseña de una cuenta de correo existente para validar el envío a través de los servidores SMTP de Gmail
 4. Clave privada de [Google Recaptcha](https://www.google.com/recaptcha/admin/)
